@@ -1,3 +1,9 @@
+/*
+---------Script Info---------
+---Author: Mahin Bin Hasan---
+---github.com/mahinbinhasan--
+---facebook.com/root.mahin---
+*/
 #include<stdio.h>
 #include<conio.h>
 
